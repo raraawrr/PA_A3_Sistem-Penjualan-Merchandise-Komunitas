@@ -1,7 +1,8 @@
 # PA_A3_Sistem-Penjualan-Merchandise-Komunitas
 
-1. Salwa Annisa Nur Fadhila
-2. Muhammad Favian Daffa
-3. Mutiara Zyahra Al Gazali
-4. Fahry Alfisyahr Razak
+Anggota dan Peran:
+1. Salwa Annisa Nur Fadhila (2609116010):
+2. Muhammad Favian Daffa (2609116021):
+3. Mutiara Zyahra Al Gazali (2609116026):
+4. Fahry Alfisyahr Razak (2609116028):
 
